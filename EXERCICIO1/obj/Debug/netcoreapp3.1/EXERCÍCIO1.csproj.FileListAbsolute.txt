@@ -1,0 +1,13 @@
+C:\Users\ramgui\Desktop\ESTUDO\CURSO C# UDEMY\EXERCICIOS\EXERCÍCIO1\bin\Debug\netcoreapp3.1\EXERCÍCIO1.exe
+C:\Users\ramgui\Desktop\ESTUDO\CURSO C# UDEMY\EXERCICIOS\EXERCÍCIO1\bin\Debug\netcoreapp3.1\EXERCÍCIO1.deps.json
+C:\Users\ramgui\Desktop\ESTUDO\CURSO C# UDEMY\EXERCICIOS\EXERCÍCIO1\bin\Debug\netcoreapp3.1\EXERCÍCIO1.runtimeconfig.json
+C:\Users\ramgui\Desktop\ESTUDO\CURSO C# UDEMY\EXERCICIOS\EXERCÍCIO1\bin\Debug\netcoreapp3.1\EXERCÍCIO1.runtimeconfig.dev.json
+C:\Users\ramgui\Desktop\ESTUDO\CURSO C# UDEMY\EXERCICIOS\EXERCÍCIO1\bin\Debug\netcoreapp3.1\EXERCÍCIO1.dll
+C:\Users\ramgui\Desktop\ESTUDO\CURSO C# UDEMY\EXERCICIOS\EXERCÍCIO1\bin\Debug\netcoreapp3.1\EXERCÍCIO1.pdb
+C:\Users\ramgui\Desktop\ESTUDO\CURSO C# UDEMY\EXERCICIOS\EXERCÍCIO1\obj\Debug\netcoreapp3.1\EXERCÍCIO1.csprojAssemblyReference.cache
+C:\Users\ramgui\Desktop\ESTUDO\CURSO C# UDEMY\EXERCICIOS\EXERCÍCIO1\obj\Debug\netcoreapp3.1\EXERCÍCIO1.AssemblyInfoInputs.cache
+C:\Users\ramgui\Desktop\ESTUDO\CURSO C# UDEMY\EXERCICIOS\EXERCÍCIO1\obj\Debug\netcoreapp3.1\EXERCÍCIO1.AssemblyInfo.cs
+C:\Users\ramgui\Desktop\ESTUDO\CURSO C# UDEMY\EXERCICIOS\EXERCÍCIO1\obj\Debug\netcoreapp3.1\EXERCÍCIO1.csproj.CoreCompileInputs.cache
+C:\Users\ramgui\Desktop\ESTUDO\CURSO C# UDEMY\EXERCICIOS\EXERCÍCIO1\obj\Debug\netcoreapp3.1\EXERCÍCIO1.dll
+C:\Users\ramgui\Desktop\ESTUDO\CURSO C# UDEMY\EXERCICIOS\EXERCÍCIO1\obj\Debug\netcoreapp3.1\EXERCÍCIO1.pdb
+C:\Users\ramgui\Desktop\ESTUDO\CURSO C# UDEMY\EXERCICIOS\EXERCÍCIO1\obj\Debug\netcoreapp3.1\EXERCÍCIO1.genruntimeconfig.cache

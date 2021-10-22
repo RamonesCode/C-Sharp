@@ -1,0 +1,13 @@
+C:\Users\ramgui\Desktop\ESTUDO\CURSO C# UDEMY\EXERCICIOS\ExerVetores\bin\Debug\netcoreapp3.1\ExerVetores.exe
+C:\Users\ramgui\Desktop\ESTUDO\CURSO C# UDEMY\EXERCICIOS\ExerVetores\bin\Debug\netcoreapp3.1\ExerVetores.deps.json
+C:\Users\ramgui\Desktop\ESTUDO\CURSO C# UDEMY\EXERCICIOS\ExerVetores\bin\Debug\netcoreapp3.1\ExerVetores.runtimeconfig.json
+C:\Users\ramgui\Desktop\ESTUDO\CURSO C# UDEMY\EXERCICIOS\ExerVetores\bin\Debug\netcoreapp3.1\ExerVetores.runtimeconfig.dev.json
+C:\Users\ramgui\Desktop\ESTUDO\CURSO C# UDEMY\EXERCICIOS\ExerVetores\bin\Debug\netcoreapp3.1\ExerVetores.dll
+C:\Users\ramgui\Desktop\ESTUDO\CURSO C# UDEMY\EXERCICIOS\ExerVetores\bin\Debug\netcoreapp3.1\ExerVetores.pdb
+C:\Users\ramgui\Desktop\ESTUDO\CURSO C# UDEMY\EXERCICIOS\ExerVetores\obj\Debug\netcoreapp3.1\ExerVetores.csprojAssemblyReference.cache
+C:\Users\ramgui\Desktop\ESTUDO\CURSO C# UDEMY\EXERCICIOS\ExerVetores\obj\Debug\netcoreapp3.1\ExerVetores.AssemblyInfoInputs.cache
+C:\Users\ramgui\Desktop\ESTUDO\CURSO C# UDEMY\EXERCICIOS\ExerVetores\obj\Debug\netcoreapp3.1\ExerVetores.AssemblyInfo.cs
+C:\Users\ramgui\Desktop\ESTUDO\CURSO C# UDEMY\EXERCICIOS\ExerVetores\obj\Debug\netcoreapp3.1\ExerVetores.csproj.CoreCompileInputs.cache
+C:\Users\ramgui\Desktop\ESTUDO\CURSO C# UDEMY\EXERCICIOS\ExerVetores\obj\Debug\netcoreapp3.1\ExerVetores.dll
+C:\Users\ramgui\Desktop\ESTUDO\CURSO C# UDEMY\EXERCICIOS\ExerVetores\obj\Debug\netcoreapp3.1\ExerVetores.pdb
+C:\Users\ramgui\Desktop\ESTUDO\CURSO C# UDEMY\EXERCICIOS\ExerVetores\obj\Debug\netcoreapp3.1\ExerVetores.genruntimeconfig.cache

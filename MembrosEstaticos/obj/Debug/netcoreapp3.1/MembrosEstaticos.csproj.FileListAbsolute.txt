@@ -1,0 +1,13 @@
+C:\Users\ramgui\Desktop\ESTUDO\CURSO C# UDEMY\EXERCICIOS\MembrosEstaticos\bin\Debug\netcoreapp3.1\MembrosEstaticos.exe
+C:\Users\ramgui\Desktop\ESTUDO\CURSO C# UDEMY\EXERCICIOS\MembrosEstaticos\bin\Debug\netcoreapp3.1\MembrosEstaticos.deps.json
+C:\Users\ramgui\Desktop\ESTUDO\CURSO C# UDEMY\EXERCICIOS\MembrosEstaticos\bin\Debug\netcoreapp3.1\MembrosEstaticos.runtimeconfig.json
+C:\Users\ramgui\Desktop\ESTUDO\CURSO C# UDEMY\EXERCICIOS\MembrosEstaticos\bin\Debug\netcoreapp3.1\MembrosEstaticos.runtimeconfig.dev.json
+C:\Users\ramgui\Desktop\ESTUDO\CURSO C# UDEMY\EXERCICIOS\MembrosEstaticos\bin\Debug\netcoreapp3.1\MembrosEstaticos.dll
+C:\Users\ramgui\Desktop\ESTUDO\CURSO C# UDEMY\EXERCICIOS\MembrosEstaticos\bin\Debug\netcoreapp3.1\MembrosEstaticos.pdb
+C:\Users\ramgui\Desktop\ESTUDO\CURSO C# UDEMY\EXERCICIOS\MembrosEstaticos\obj\Debug\netcoreapp3.1\MembrosEstaticos.csprojAssemblyReference.cache
+C:\Users\ramgui\Desktop\ESTUDO\CURSO C# UDEMY\EXERCICIOS\MembrosEstaticos\obj\Debug\netcoreapp3.1\MembrosEstaticos.AssemblyInfoInputs.cache
+C:\Users\ramgui\Desktop\ESTUDO\CURSO C# UDEMY\EXERCICIOS\MembrosEstaticos\obj\Debug\netcoreapp3.1\MembrosEstaticos.AssemblyInfo.cs
+C:\Users\ramgui\Desktop\ESTUDO\CURSO C# UDEMY\EXERCICIOS\MembrosEstaticos\obj\Debug\netcoreapp3.1\MembrosEstaticos.csproj.CoreCompileInputs.cache
+C:\Users\ramgui\Desktop\ESTUDO\CURSO C# UDEMY\EXERCICIOS\MembrosEstaticos\obj\Debug\netcoreapp3.1\MembrosEstaticos.dll
+C:\Users\ramgui\Desktop\ESTUDO\CURSO C# UDEMY\EXERCICIOS\MembrosEstaticos\obj\Debug\netcoreapp3.1\MembrosEstaticos.pdb
+C:\Users\ramgui\Desktop\ESTUDO\CURSO C# UDEMY\EXERCICIOS\MembrosEstaticos\obj\Debug\netcoreapp3.1\MembrosEstaticos.genruntimeconfig.cache

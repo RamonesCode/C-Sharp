@@ -1,0 +1,13 @@
+C:\Users\ramgui\Desktop\ESTUDO\CURSO C# UDEMY\EXERCICIOS\LerDadosConta\bin\Debug\netcoreapp3.1\LerDadosConta.exe
+C:\Users\ramgui\Desktop\ESTUDO\CURSO C# UDEMY\EXERCICIOS\LerDadosConta\bin\Debug\netcoreapp3.1\LerDadosConta.deps.json
+C:\Users\ramgui\Desktop\ESTUDO\CURSO C# UDEMY\EXERCICIOS\LerDadosConta\bin\Debug\netcoreapp3.1\LerDadosConta.runtimeconfig.json
+C:\Users\ramgui\Desktop\ESTUDO\CURSO C# UDEMY\EXERCICIOS\LerDadosConta\bin\Debug\netcoreapp3.1\LerDadosConta.runtimeconfig.dev.json
+C:\Users\ramgui\Desktop\ESTUDO\CURSO C# UDEMY\EXERCICIOS\LerDadosConta\bin\Debug\netcoreapp3.1\LerDadosConta.dll
+C:\Users\ramgui\Desktop\ESTUDO\CURSO C# UDEMY\EXERCICIOS\LerDadosConta\bin\Debug\netcoreapp3.1\LerDadosConta.pdb
+C:\Users\ramgui\Desktop\ESTUDO\CURSO C# UDEMY\EXERCICIOS\LerDadosConta\obj\Debug\netcoreapp3.1\LerDadosConta.csprojAssemblyReference.cache
+C:\Users\ramgui\Desktop\ESTUDO\CURSO C# UDEMY\EXERCICIOS\LerDadosConta\obj\Debug\netcoreapp3.1\LerDadosConta.AssemblyInfoInputs.cache
+C:\Users\ramgui\Desktop\ESTUDO\CURSO C# UDEMY\EXERCICIOS\LerDadosConta\obj\Debug\netcoreapp3.1\LerDadosConta.AssemblyInfo.cs
+C:\Users\ramgui\Desktop\ESTUDO\CURSO C# UDEMY\EXERCICIOS\LerDadosConta\obj\Debug\netcoreapp3.1\LerDadosConta.csproj.CoreCompileInputs.cache
+C:\Users\ramgui\Desktop\ESTUDO\CURSO C# UDEMY\EXERCICIOS\LerDadosConta\obj\Debug\netcoreapp3.1\LerDadosConta.dll
+C:\Users\ramgui\Desktop\ESTUDO\CURSO C# UDEMY\EXERCICIOS\LerDadosConta\obj\Debug\netcoreapp3.1\LerDadosConta.pdb
+C:\Users\ramgui\Desktop\ESTUDO\CURSO C# UDEMY\EXERCICIOS\LerDadosConta\obj\Debug\netcoreapp3.1\LerDadosConta.genruntimeconfig.cache

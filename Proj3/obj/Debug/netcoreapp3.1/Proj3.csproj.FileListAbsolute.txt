@@ -1,0 +1,13 @@
+C:\Users\ramgui\Desktop\CURSO C# UDEMY\Testes\Proj3\bin\Debug\netcoreapp3.1\Proj3.exe
+C:\Users\ramgui\Desktop\CURSO C# UDEMY\Testes\Proj3\bin\Debug\netcoreapp3.1\Proj3.deps.json
+C:\Users\ramgui\Desktop\CURSO C# UDEMY\Testes\Proj3\bin\Debug\netcoreapp3.1\Proj3.runtimeconfig.json
+C:\Users\ramgui\Desktop\CURSO C# UDEMY\Testes\Proj3\bin\Debug\netcoreapp3.1\Proj3.runtimeconfig.dev.json
+C:\Users\ramgui\Desktop\CURSO C# UDEMY\Testes\Proj3\bin\Debug\netcoreapp3.1\Proj3.dll
+C:\Users\ramgui\Desktop\CURSO C# UDEMY\Testes\Proj3\bin\Debug\netcoreapp3.1\Proj3.pdb
+C:\Users\ramgui\Desktop\CURSO C# UDEMY\Testes\Proj3\obj\Debug\netcoreapp3.1\Proj3.csprojAssemblyReference.cache
+C:\Users\ramgui\Desktop\CURSO C# UDEMY\Testes\Proj3\obj\Debug\netcoreapp3.1\Proj3.AssemblyInfoInputs.cache
+C:\Users\ramgui\Desktop\CURSO C# UDEMY\Testes\Proj3\obj\Debug\netcoreapp3.1\Proj3.AssemblyInfo.cs
+C:\Users\ramgui\Desktop\CURSO C# UDEMY\Testes\Proj3\obj\Debug\netcoreapp3.1\Proj3.csproj.CoreCompileInputs.cache
+C:\Users\ramgui\Desktop\CURSO C# UDEMY\Testes\Proj3\obj\Debug\netcoreapp3.1\Proj3.dll
+C:\Users\ramgui\Desktop\CURSO C# UDEMY\Testes\Proj3\obj\Debug\netcoreapp3.1\Proj3.pdb
+C:\Users\ramgui\Desktop\CURSO C# UDEMY\Testes\Proj3\obj\Debug\netcoreapp3.1\Proj3.genruntimeconfig.cache
