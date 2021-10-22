@@ -1,0 +1,13 @@
+C:\Users\ramgui\Desktop\ESTUDO\CURSO C# UDEMY\EXERCICIOS\CourseExEnum\obj\Debug\netcoreapp3.1\CourseExEnum.csprojAssemblyReference.cache
+C:\Users\ramgui\Desktop\ESTUDO\CURSO C# UDEMY\EXERCICIOS\CourseExEnum\obj\Debug\netcoreapp3.1\CourseExEnum.AssemblyInfoInputs.cache
+C:\Users\ramgui\Desktop\ESTUDO\CURSO C# UDEMY\EXERCICIOS\CourseExEnum\obj\Debug\netcoreapp3.1\CourseExEnum.AssemblyInfo.cs
+C:\Users\ramgui\Desktop\ESTUDO\CURSO C# UDEMY\EXERCICIOS\CourseExEnum\obj\Debug\netcoreapp3.1\CourseExEnum.csproj.CoreCompileInputs.cache
+C:\Users\ramgui\Desktop\ESTUDO\CURSO C# UDEMY\EXERCICIOS\CourseExEnum\bin\Debug\netcoreapp3.1\CourseExEnum.exe
+C:\Users\ramgui\Desktop\ESTUDO\CURSO C# UDEMY\EXERCICIOS\CourseExEnum\bin\Debug\netcoreapp3.1\CourseExEnum.deps.json
+C:\Users\ramgui\Desktop\ESTUDO\CURSO C# UDEMY\EXERCICIOS\CourseExEnum\bin\Debug\netcoreapp3.1\CourseExEnum.runtimeconfig.json
+C:\Users\ramgui\Desktop\ESTUDO\CURSO C# UDEMY\EXERCICIOS\CourseExEnum\bin\Debug\netcoreapp3.1\CourseExEnum.runtimeconfig.dev.json
+C:\Users\ramgui\Desktop\ESTUDO\CURSO C# UDEMY\EXERCICIOS\CourseExEnum\bin\Debug\netcoreapp3.1\CourseExEnum.dll
+C:\Users\ramgui\Desktop\ESTUDO\CURSO C# UDEMY\EXERCICIOS\CourseExEnum\bin\Debug\netcoreapp3.1\CourseExEnum.pdb
+C:\Users\ramgui\Desktop\ESTUDO\CURSO C# UDEMY\EXERCICIOS\CourseExEnum\obj\Debug\netcoreapp3.1\CourseExEnum.dll
+C:\Users\ramgui\Desktop\ESTUDO\CURSO C# UDEMY\EXERCICIOS\CourseExEnum\obj\Debug\netcoreapp3.1\CourseExEnum.pdb
+C:\Users\ramgui\Desktop\ESTUDO\CURSO C# UDEMY\EXERCICIOS\CourseExEnum\obj\Debug\netcoreapp3.1\CourseExEnum.genruntimeconfig.cache
